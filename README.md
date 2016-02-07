@@ -1,2 +1,4 @@
-# 3-dimensional-time-Conways-Game-of-Life
-# 3-dimensional-time-Conways-Game-of-Life
+#This repository contains multiple different projects in mathematical programming
+#Each project is usualy only one ruby file
+#Anyone feel free to work freely on any of these projects
+
